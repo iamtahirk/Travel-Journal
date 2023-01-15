@@ -10,7 +10,7 @@ A simple, responsive travel journal built with React. This was a solo project su
 
 ## Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/iamtahirk/repo/master/images/screenshot.png?raw=true "Screenshot of the Travel Journal")
+![Screenshot](https://github.com/iamtahirk/Travel-Journal/blob/main/public/images/My_Travel_Journal.png?raw=true "Screenshot of the Travel Journal")
 
 ## Usage/Examples
 

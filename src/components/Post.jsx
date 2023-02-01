@@ -10,7 +10,9 @@ export default (props) => {
                             <img src="/images/location_pin.svg" alt="" className="location-pin" />
                             <p>{props.location}</p>
                         </div>
-                        <p className="map-link"><a href={`${props.googleMapsUrl}`}>View on Google Maps</a></p>
+                        <p className="map-link">
+                            <a href={props.googleMapsUrl} target="_blank">View on Google Maps</a>
+                        </p>
                     </div>
 
                     <h1 className="post-title">{props.title}</h1>
